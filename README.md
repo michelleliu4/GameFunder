@@ -1,27 +1,15 @@
-# WEB102 Prework - *GameFunder*
+# GameFunder
 
-Submitted by: **Michelle Liu**
+GameFunder is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. This was created as part of CodePath's Web102 Prework.
 
-**GameFunder** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+## Features
 
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-* [X] The introduction section explains the background of the company and how many games remain unfunded.
-* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* The introduction section explains the background of the company and how many games remain unfunded.
+* The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/P3JDzjl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -32,13 +20,9 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [2022] [Michelle Liu]
+    Copyright [2023] [Michelle Liu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
